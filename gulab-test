@@ -1,3 +1,28 @@
-This is the Practice file created by gulab
+GIT INSTALLATION
+
+if machine is linux or MAC OS , git is already installed
+if machine is windows, have to install git binary.
+
+	- check git installation via git --version 
+
+2) How to do git config on your machine;
+	- git config --global user.name "username"
+	- git config --global user.email "email"
+check the config if correctly then 
+	- git config --list
+
+3) cloning repo from remote server to local
+	git clone <url>
+4) make the changes you want to do on your local then once finished then pushing to staging area is
+	- git add .  
+	- git add file name  (this is just to push partiular files)
+
+5) pushing to local server 
+	- git commit -m "jira id and message"
+6) pushing to remote server is 
+	- git push origin <branch name>
+
+##########ABOVE STEPS ARE GENERAL STEPS#############################
+
 
 
