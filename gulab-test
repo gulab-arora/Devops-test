@@ -26,3 +26,8 @@ check the config if correctly then
 
 
 
+
+####BRANCHING###############
+1: git branch -a (this will list all the branches in your local machine as well as remote server)
+2: to create new branch from base branch 
+	git checkout -b branch_name
